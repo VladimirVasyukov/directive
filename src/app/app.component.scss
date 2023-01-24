@@ -1,0 +1,19 @@
+:host ::ng-deep .highlighted-text {
+  background-color: yellow;
+}
+
+.wrapper {
+  max-width: 1440px;
+  padding: 60px 0px;
+  margin: 0 auto;
+}
+
+.content {
+  max-width: 1300px;
+  margin: 0 auto;
+  font-size: 19px;
+}
+
+.input {
+  margin-bottom: 20px;
+}
